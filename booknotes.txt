@@ -1,2 +1,3 @@
 Pwd  and ls git status .... 
 Added more text from local
+receving data from remote 
